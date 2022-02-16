@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 7783f241-3742-cfd2-9ee3-04b1ce8a4e5c
 ---
@@ -20,7 +22,7 @@ uid: 7783f241-3742-cfd2-9ee3-04b1ce8a4e5c
 
 [Promenade 'Round the Cochlea](http://www.iurc.montp.inserm.fr/cric/audition/english/start2.htm): Web site containing very useful basic introduction to sound, cochlear structure and function, and audiometric measurement.
 
-[MIDI Toolbox for MATLABTM](http://www.jyu.fi/musica/miditoolbox/): The MIDI Toolbox is a compilation of functions for analyzing and visualizing MIDI files in the Matlab computing environment. Besides simple manipulation and filtering functions, the toolbox contains cognitively inspired analytic techniques that are suitable for context-dependent musical analysis that deal with such topics as melodic contour, similarity, key-finding, meter-finding and segmentation.
+[MIDI Toolbox for MATLAB{{< sup "TM" >}}](http://www.jyu.fi/musica/miditoolbox/): The MIDI Toolbox is a compilation of functions for analyzing and visualizing MIDI files in the Matlab computing environment. Besides simple manipulation and filtering functions, the toolbox contains cognitively inspired analytic techniques that are suitable for context-dependent musical analysis that deal with such topics as melodic contour, similarity, key-finding, meter-finding and segmentation.
 
 [Music and Emotion in Film](https://www.npr.org/transcripts/7268315): An audio discussion of music in Hitchcock's films and their emotional impact (with author Jack Sullivan)
 
