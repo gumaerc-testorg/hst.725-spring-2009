@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5738a32e-91e6-38d9-b04a-a428a6dce0fd
 resourcetype: Document
 title: 'Why we listen: The psychological functions of music'
 uid: 0b97823c-ebd3-d10c-f5d0-1ec5c701109b

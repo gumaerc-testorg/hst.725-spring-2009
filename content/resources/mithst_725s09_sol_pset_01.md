@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 42f328ed-54db-ed60-3e8c-d692f70d4051
 resourcetype: Document
 title: 'Assignment #1 Solutions'
 uid: 9c927397-2bcd-ce8f-743f-e085bef4bf7d

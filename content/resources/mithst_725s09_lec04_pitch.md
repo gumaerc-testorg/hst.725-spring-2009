@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5738a32e-91e6-38d9-b04a-a428a6dce0fd
 resourcetype: Document
 title: Neural representation of musical pitch
 uid: 39eec905-27b4-85a5-ca3f-83803bc0ba4d

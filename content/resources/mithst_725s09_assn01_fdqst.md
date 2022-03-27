@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 42f328ed-54db-ed60-3e8c-d692f70d4051
 resourcetype: Document
 title: 'Some fundamental problems in the psychology of music '
 uid: cf84f15b-1df8-014e-7f70-67c0f5f26624

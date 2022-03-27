@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5738a32e-91e6-38d9-b04a-a428a6dce0fd
 resourcetype: Document
 title: Neural mechanisms of musical pitch
 uid: 113fd459-1251-0029-69c6-21ff301915d2

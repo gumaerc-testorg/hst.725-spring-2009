@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5738a32e-91e6-38d9-b04a-a428a6dce0fd
 resourcetype: Document
 title: 'Interactions between tones: Consonance & dissonance'
 uid: 51819fb4-c1cc-2e16-7f42-605791472dc3
