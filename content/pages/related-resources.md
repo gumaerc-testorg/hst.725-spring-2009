@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links to related resources on music perception
+  and cognition.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

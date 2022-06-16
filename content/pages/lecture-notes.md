@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course,
+  a summary of key lecture topics, and selected lecture notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -9,7 +11,7 @@ uid: 5738a32e-91e6-38d9-b04a-a428a6dce0fd
 
 Selected lecture notes are provided below.
 
-Summary of key lecture topics ([PDF - 1.6MB]({{< baseurl >}}/resources/mithst_725s09_lec_sumaries))
+Summary of key lecture topics ({{% resource_link 5bb5ba0c-52ac-b4a6-bfa1-78bcf9db7f6d "PDF - 1.6MB" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -45,9 +47,9 @@ Overview of music's psychological and social functions
 {{< tdopen >}}
 
 
-([PDF - 1.1MB]({{< baseurl >}}/resources/mithst_725s09_lec01_intro))
+({{% resource_link ef79c16a-e27c-2f1e-f58c-8c0e27bb98f4 "PDF - 1.1MB" %}})
 
-([PDF - 2.7MB]({{< baseurl >}}/resources/mithst_725s09_lec02_why))
+({{% resource_link 0b97823c-ebd3-d10c-f5d0-1ec5c701109b "PDF - 2.7MB" %}})
 
 
 {{< tdclose >}}
@@ -61,7 +63,7 @@ Overview of music's psychological and social functions
 Overview: auditory perception and the time sense
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.7MB]({{< baseurl >}}/resources/mithst_725s09_lec02_why))
+({{% resource_link 0b97823c-ebd3-d10c-f5d0-1ec5c701109b "PDF - 2.7MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,7 +75,7 @@ Overview: auditory perception and the time sense
 Overview of the auditory system
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.2MB]({{< baseurl >}}/resources/mithst_725s09_lec03_what))
+({{% resource_link 52563e93-de4c-8813-e614-115d8e3500d9 "PDF - 3.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +87,7 @@ Overview of the auditory system
 Pitch
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 6.0MB]({{< baseurl >}}/resources/mithst_725s09_lec04_pitch))
+({{% resource_link 39eec905-27b4-85a5-ca3f-83803bc0ba4d "PDF - 6.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +99,7 @@ Pitch
 Pitch mechanisms and neurocomputational models
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 5.7MB]({{< baseurl >}}/resources/mithst_725s09_lec05_pitchmech))
+({{% resource_link 113fd459-1251-0029-69c6-21ff301915d2 "PDF - 5.7MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +111,7 @@ Pitch mechanisms and neurocomputational models
 Timbre
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.0MB]({{< baseurl >}}/resources/mithst_725s09_lec07_timbre))
+({{% resource_link 2635f0c5-5b53-61b9-c3d9-f333436f1d75 "PDF - 2.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +123,7 @@ Timbre
 Consonance, dissonance, and roughness
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 5.4MB]({{< baseurl >}}/resources/mithst_725s09_lec08_conson))
+({{% resource_link 51819fb4-c1cc-2e16-7f42-605791472dc3 "PDF - 5.4MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +135,7 @@ Consonance, dissonance, and roughness
 Scales, tuning and harmony
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.2MB]({{< baseurl >}}/resources/mithst_725s09_lec09_scales))
+({{% resource_link 3045ff24-f18f-b715-e2f6-5f4fe7a3fe56 "PDF - 2.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,7 +147,7 @@ Scales, tuning and harmony
 Melody
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.8MB]({{< baseurl >}}/resources/mithst_725s09_lec10_mel))
+({{% resource_link f1c2d19f-6a77-a03b-e3e4-30356745d4bc "PDF - 1.8MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +159,7 @@ Melody
 Rhythm, timing, and expectation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.8MB]({{< baseurl >}}/resources/mithst_725s09_lec16_rhy))
+({{% resource_link b4b6bc19-e131-fc7f-6b36-5d0fef32845d "PDF - 3.8MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

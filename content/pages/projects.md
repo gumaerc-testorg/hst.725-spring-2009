@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the term project of the course including
+  a list of possible term project topics.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
