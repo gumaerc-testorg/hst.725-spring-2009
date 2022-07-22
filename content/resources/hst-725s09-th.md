@@ -14,6 +14,7 @@ image_metadata:
   image-alt: Figure illustrating areas of the brain that may be involved in different
     aspects of music perception and performance.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Figure illustrating areas of the brain that may be involved in different aspects
@@ -21,4 +22,3 @@ title: Figure illustrating areas of the brain that may be involved in different 
 uid: e0f99434-e9c5-d4c9-fc0a-a74f425dd729
 ---
 Areas of the brain that may be involved in different aspects of music perception and performance. (Figure by MIT OpenCourseWare, adapted from Tramo, Mark J. "Music of the Hemispheres." Science 291, no. 5501 (January 5, 2001): 54-56.
-

@@ -6,6 +6,7 @@ file: /courses/hst-725-music-perception-and-cognition-spring-2009/113fd459125100
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Neural mechanisms of musical pitch
 uid: 113fd459-1251-0029-69c6-21ff301915d2
 ---
 Lecture presentation on music, pitch mechanisms, the auditory system, and neurocomputational models.
-

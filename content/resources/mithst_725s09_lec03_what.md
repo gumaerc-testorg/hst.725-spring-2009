@@ -5,6 +5,7 @@ file: /courses/hst-725-music-perception-and-cognition-spring-2009/52563e93de4c88
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'What we hear: Basic dimensions of auditory experience'
 uid: 52563e93-de4c-8813-e614-115d8e3500d9
 ---
 Lecture presentation with an overview of the auditory system.
-

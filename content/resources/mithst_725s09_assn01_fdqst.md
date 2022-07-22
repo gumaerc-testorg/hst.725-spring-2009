@@ -6,6 +6,7 @@ file: /courses/hst-725-music-perception-and-cognition-spring-2009/cf84f15b1df801
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Some fundamental problems in the psychology of music '
 uid: cf84f15b-1df8-014e-7f70-67c0f5f26624
 ---
 Assignment to choose a problem in the psychology of music, outline your thinking about it, and present it to the class as the basis for a class discussion.
-

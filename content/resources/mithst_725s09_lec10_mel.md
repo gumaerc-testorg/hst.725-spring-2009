@@ -5,6 +5,7 @@ file: /courses/hst-725-music-perception-and-cognition-spring-2009/f1c2d19f6a77a0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Melody & Harmony: combinations and sequences of pitches unfolding in tim
 uid: f1c2d19f-6a77-a03b-e3e4-30356745d4bc
 ---
 Lecture notes on melody, harmony, and combinations and sequences of pitches.
-

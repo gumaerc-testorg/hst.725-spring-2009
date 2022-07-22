@@ -6,6 +6,7 @@ file: /courses/hst-725-music-perception-and-cognition-spring-2009/2635f0c55b5361
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Timbre perception
 uid: 2635f0c5-5b53-61b9-c3d9-f333436f1d75
 ---
 Lecture presentation on timbre perception, uses of timbre in music, and acoustical correlates of timbre.
-
