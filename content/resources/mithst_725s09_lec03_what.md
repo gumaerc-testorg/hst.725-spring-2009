@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation with an overview of the auditory system.
 file: /courses/hst-725-music-perception-and-cognition-spring-2009/52563e93de4c8813e614115d8e3500d9_MITHST_725S09_lec03_what.pdf
+file_size: 3332035
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
