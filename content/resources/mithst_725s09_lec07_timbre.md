@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on timbre perception, uses of timbre in music, and
   acoustical correlates of timbre.
 file: /courses/hst-725-music-perception-and-cognition-spring-2009/2635f0c55b5361b9c3d9f333436f1d75_MITHST_725S09_lec07_timbre.pdf
+file_size: 2065510
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

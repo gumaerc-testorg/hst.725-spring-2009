@@ -6,6 +6,7 @@ description: Overview of the course with a summary of key lecture topics. Topics
   expectancy, meaning, emotion, pleasure, musical preferences, developmental psychology
   of music, and comparative and evolutionary psychology of music.
 file: /courses/hst-725-music-perception-and-cognition-spring-2009/5bb5ba0c52acb4a6bfa178bcf9db7f6d_MITHST_725S09_lec_sumaries.pdf
+file_size: 1635697
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
