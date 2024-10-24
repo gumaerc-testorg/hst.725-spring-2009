@@ -3,7 +3,7 @@ content_type: resource
 description: Introductory lecture presentation providing information on course mechanics,
   a class survey, and an overview of topics.  Also offers an introduction to music,
   mind, and the brain.
-file: /courses/hst-725-music-perception-and-cognition-spring-2009/ef79c16ae27c2f1ef58c8c0e27bb98f4_MITHST_725S09_lec01_intro.pdf
+file: /ol-ocw-studio-app/courses/hst-725-music-perception-and-cognition-spring-2009/ef79c16ae27c2f1ef58c8c0e27bb98f4_MITHST_725S09_lec01_intro.pdf
 file_size: 1137151
 file_type: application/pdf
 learning_resource_types:
