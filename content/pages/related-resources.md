@@ -18,8 +18,6 @@ uid: 7783f241-3742-cfd2-9ee3-04b1ce8a4e5c
 
 [Brain Atlas](http://www.med.harvard.edu/AANLIB/home.html): A 3-D interactive brain atlas
 
-[MuSICA](http://www.musica.uci.edu/): Norman Weinberg's writings on music and brain
-
 [David Huron/Sweet Anticipation Webpage](http://music-cog.ohio-state.edu/Huron/): Massive Web site related to psychology of music containing lectures, discussions, bibliographies, models, syllabi, papers, etc, etc, etc. Look under Courses for more topics. See also his [Web site of materials and demonstrations](http://csml.som.ohio-state.edu/SweetAnticipation/supplements.html) that accompany his book Sweet Anticipation.
 
 [MIDI Toolbox for MATLAB](http://www.jyu.fi/musica/miditoolbox/){{< sup "TM" >}}: The MIDI Toolbox is a compilation of functions for analyzing and visualizing MIDI files in the Matlab computing environment. Besides simple manipulation and filtering functions, the toolbox contains cognitively inspired analytic techniques that are suitable for context-dependent musical analysis that deal with such topics as melodic contour, similarity, key-finding, meter-finding and segmentation.
