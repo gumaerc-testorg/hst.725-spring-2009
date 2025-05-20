@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on melody, harmony, and combinations and sequences of pitches.
-file: /ol-ocw-studio-app/courses/hst-725-music-perception-and-cognition-spring-2009/f1c2d19f6a77a03be3e430356745d4bc_MITHST_725S09_lec10_mel.pdf
+file: /courses/hst-725-music-perception-and-cognition-spring-2009/f1c2d19f6a77a03be3e430356745d4bc_MITHST_725S09_lec10_mel.pdf
 file_size: 1911938
 file_type: application/pdf
 learning_resource_types:
