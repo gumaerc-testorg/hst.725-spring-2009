@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment to choose a problem in the psychology of music, outline your
   thinking about it, and present it to the class as the basis for a class discussion.
-file: /ol-ocw-studio-app/courses/hst-725-music-perception-and-cognition-spring-2009/cf84f15b1df8014e7f7067c0f5f26624_MITHST_725S09_assn01_fdqst.pdf
+file: /courses/hst-725-music-perception-and-cognition-spring-2009/cf84f15b1df8014e7f7067c0f5f26624_MITHST_725S09_assn01_fdqst.pdf
 file_size: 36133
 file_type: application/pdf
 learning_resource_types:
