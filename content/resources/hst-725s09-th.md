@@ -3,7 +3,7 @@ content_type: resource
 description: 'Areas of the brain that may be involved in different aspects of music
   perception and performance. (Figure by MIT OpenCourseWare, adapted from Tramo, Mark
   J. "Music of the Hemispheres." Science 291, no. 5501 (January 5, 2001): 54-56.'
-file: /ol-ocw-studio-app/courses/hst-725-music-perception-and-cognition-spring-2009/e0f99434e9c5d4c9fc0aa74f425dd729_hst-725s09-th.jpg
+file: /courses/hst-725-music-perception-and-cognition-spring-2009/e0f99434e9c5d4c9fc0aa74f425dd729_hst-725s09-th.jpg
 file_size: 11573
 file_type: image/jpeg
 image_metadata:
