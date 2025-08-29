@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on consonance, dissonance, roughness, and consonance
   in music.
-file: /courses/hst-725-music-perception-and-cognition-spring-2009/51819fb4c1cc2e167f42605791472dc3_MITHST_725S09_lec08_conson.pdf
+file: /ol-ocw-studio-app/courses/hst-725-music-perception-and-cognition-spring-2009/51819fb4c1cc2e167f42605791472dc3_MITHST_725S09_lec08_conson.pdf
 file_size: 5656160
 file_type: application/pdf
 learning_resource_types:

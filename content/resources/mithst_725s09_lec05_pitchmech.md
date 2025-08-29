@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on music, pitch mechanisms, the auditory system,
   and neurocomputational models.
-file: /courses/hst-725-music-perception-and-cognition-spring-2009/113fd4591251002969c621ff301915d2_MITHST_725S09_lec05_pitchmech.pdf
+file: /ol-ocw-studio-app/courses/hst-725-music-perception-and-cognition-spring-2009/113fd4591251002969c621ff301915d2_MITHST_725S09_lec05_pitchmech.pdf
 file_size: 5993424
 file_type: application/pdf
 learning_resource_types:
