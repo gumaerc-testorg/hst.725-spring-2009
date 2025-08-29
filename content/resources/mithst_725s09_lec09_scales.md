@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on scales, intervals, tuning systems, harmony, music,
   modes, and notations.
-file: /courses/hst-725-music-perception-and-cognition-spring-2009/3045ff24f18fb715e2f65f4fe7a3fe56_MITHST_725S09_lec09_scales.pdf
+file: /ol-ocw-studio-app/courses/hst-725-music-perception-and-cognition-spring-2009/3045ff24f18fb715e2f65f4fe7a3fe56_MITHST_725S09_lec09_scales.pdf
 file_size: 2293057
 file_type: application/pdf
 learning_resource_types:
