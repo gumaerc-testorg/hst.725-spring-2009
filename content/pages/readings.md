@@ -457,7 +457,7 @@ Deutsch, Diana. "Grouping Mechanisms in Music." Chapter 9 in *Deutsch*. \[course
 
 ### {{< anchor "a8" >}}{{< /anchor >}}Rhythm and Time Perception
 
-Chen, J. L., R. J. Zatorre, and V. B. Penhune. "Interactions Between Auditory and Dorsal Premotor Cortex During Synchronization to Musical Rhythms." *Neuroimage* 32 (2006): 1771-1781. ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.461.9884&rep=rep1&type=pdf)){{< sup "#" >}}
+Chen, J. L., R. J. Zatorre, and V. B. Penhune. "Interactions Between Auditory and Dorsal Premotor Cortex During Synchronization to Musical Rhythms." *Neuroimage* 32 (2006): 1771-1781. ([PDF](https://pubmed.ncbi.nlm.nih.gov/16777432/)){{< sup "#" >}}
 
 Clynes, M., and J. Walker. "Neurobiologic Functions, Rhythm, Time, and Pulse in Music." In *Music, Mind, and Brain: the Neuropsychology of Music*. Edited by M. Clynes. New York, NY: Springer, 1982. ISBN: 9780306409080.
 
