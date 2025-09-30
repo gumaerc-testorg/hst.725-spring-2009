@@ -33,11 +33,11 @@ Texts
 
 Deutsch, D., ed. _The Psychology of Music_. 2nd ed. San Diego, CA: Academic Press, 1998. ISBN: 9780122135651.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262081795) Handel, S. [_Listening: An Introduction to the Perception of Auditory Events_](https://mitpress.mit.edu/9780262081795). Cambridge, MA: MIT Press, 1989. ISBN: 9780262081795.
+{{% resource_link "06d16851-afb4-4693-827e-81b39a0e788b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Handel, S. {{% resource_link "06d16851-afb4-4693-827e-81b39a0e788b" "_Listening: An Introduction to the Perception of Auditory Events_" %}}. Cambridge, MA: MIT Press, 1989. ISBN: 9780262081795.
 
 Levitin, D. _This Is Your Brain On Music_. New York, NY: Dutton Adult/Penguin, 2006. ISBN: 9780525949695.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262194419) Snyder, B. [_Music and Memory_](https://mitpress.mit.edu/9780262194419). Cambridge, MA: MIT Press, 2001. ISBN: 9780262194419.
+{{% resource_link "1dda582c-f795-4da4-aa7c-44310033762d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Snyder, B. {{% resource_link "1dda582c-f795-4da4-aa7c-44310033762d" "_Music and Memory_" %}}. Cambridge, MA: MIT Press, 2001. ISBN: 9780262194419.
 
 ### Recommended
 

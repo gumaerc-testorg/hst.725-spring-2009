@@ -9,7 +9,7 @@ ocw_type: CourseSection
 title: Readings
 uid: da4d9c64-54ac-2506-d73b-5ed1c5d32f0b
 ---
-The complete citations for the readings associated with each lecture session are available in the [bibliography](https://ocw-studio.odl.mit.edu/sites/hst-725-music-perception-and-cognition-spring-2009/type/page/edit/da4d9c64-54ac-2506-d73b-5ed1c5d32f0b/#bibliography) listed below the table.
+The complete citations for the readings associated with each lecture session are available in the {{% resource_link "db06660d-ba26-4666-846a-a3b5cac8c7c6" "bibliography" %}} listed below the table.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
@@ -301,11 +301,11 @@ Wrap up and recapitulation
 
 Deutsch, D., ed. *The Psychology of Music*. 2nd ed. San Diego, CA: Academic Press, 1998. ISBN: 9780122135651.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262081795) Handel, S. [*Listening: An Introduction to the Perception of Auditory Events*](https://mitpress.mit.edu/9780262081795). Cambridge, MA: MIT Press, 1989. ISBN: 9780262081795.
+{{% resource_link "06d16851-afb4-4693-827e-81b39a0e788b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Handel, S. {{% resource_link "06d16851-afb4-4693-827e-81b39a0e788b" "*Listening: An Introduction to the Perception of Auditory Events*" %}}. Cambridge, MA: MIT Press, 1989. ISBN: 9780262081795.
 
 Levitin, D. *This Is Your Brain On Music*. New York, NY: Dutton Adult/Penguin, 2006. ISBN: 9780525949695.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262194419) Snyder, B. [*Music and Memory*](https://mitpress.mit.edu/9780262194419). Cambridge, MA: MIT Press, 2001. ISBN: 9780262194419.
+{{% resource_link "1dda582c-f795-4da4-aa7c-44310033762d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Snyder, B. {{% resource_link "1dda582c-f795-4da4-aa7c-44310033762d" "*Music and Memory*" %}}. Cambridge, MA: MIT Press, 2001. ISBN: 9780262194419.
 
 ### Recommended
 
@@ -319,29 +319,29 @@ Moore, B. C. J. *An Introduction to the Psychology of Hearing.* 5th ed. San Dieg
 
 ### Table of Contents
 
-- [General sources](https://ocw-studio.odl.mit.edu/sites/hst-725-music-perception-and-cognition-spring-2009/type/page/edit/da4d9c64-54ac-2506-d73b-5ed1c5d32f0b/#a1)
-- [Pitch](https://ocw-studio.odl.mit.edu/sites/hst-725-music-perception-and-cognition-spring-2009/type/page/edit/da4d9c64-54ac-2506-d73b-5ed1c5d32f0b/#a2)
-- [Timbre](https://ocw-studio.odl.mit.edu/sites/hst-725-music-perception-and-cognition-spring-2009/type/page/edit/da4d9c64-54ac-2506-d73b-5ed1c5d32f0b/#a3)
-- [Consonance](https://ocw-studio.odl.mit.edu/sites/hst-725-music-perception-and-cognition-spring-2009/type/page/edit/da4d9c64-54ac-2506-d73b-5ed1c5d32f0b/#a4)
-- [Scales and Tunings](https://ocw-studio.odl.mit.edu/sites/hst-725-music-perception-and-cognition-spring-2009/type/page/edit/da4d9c64-54ac-2506-d73b-5ed1c5d32f0b/#a5)
-- [Tonality and Harmony](https://ocw-studio.odl.mit.edu/sites/hst-725-music-perception-and-cognition-spring-2009/type/page/edit/da4d9c64-54ac-2506-d73b-5ed1c5d32f0b/#a6)
-- [Melody](https://ocw-studio.odl.mit.edu/sites/hst-725-music-perception-and-cognition-spring-2009/type/page/edit/da4d9c64-54ac-2506-d73b-5ed1c5d32f0b/#a7)
-- [Rhythm and Time Perception](https://ocw-studio.odl.mit.edu/sites/hst-725-music-perception-and-cognition-spring-2009/type/page/edit/da4d9c64-54ac-2506-d73b-5ed1c5d32f0b/#a8)
-- [Animal Rhythm](https://ocw-studio.odl.mit.edu/sites/hst-725-music-perception-and-cognition-spring-2009/type/page/edit/da4d9c64-54ac-2506-d73b-5ed1c5d32f0b/#a9)
-- [Temporal Models](https://ocw-studio.odl.mit.edu/sites/hst-725-music-perception-and-cognition-spring-2009/type/page/edit/da4d9c64-54ac-2506-d73b-5ed1c5d32f0b/#a10)
-- [Auditory Grouping](https://ocw-studio.odl.mit.edu/sites/hst-725-music-perception-and-cognition-spring-2009/type/page/edit/da4d9c64-54ac-2506-d73b-5ed1c5d32f0b/#a11)
-- [Music and the Cortex](https://ocw-studio.odl.mit.edu/sites/hst-725-music-perception-and-cognition-spring-2009/type/page/edit/da4d9c64-54ac-2506-d73b-5ed1c5d32f0b/#a12)
-- [Music and Speech Perception](https://ocw-studio.odl.mit.edu/sites/hst-725-music-perception-and-cognition-spring-2009/type/page/edit/da4d9c64-54ac-2506-d73b-5ed1c5d32f0b/#a13)
-- [Music, Language, and Cognition](https://ocw-studio.odl.mit.edu/sites/hst-725-music-perception-and-cognition-spring-2009/type/page/edit/da4d9c64-54ac-2506-d73b-5ed1c5d32f0b/#a14)
-- [Emotion, Meaning, and Expectation](https://ocw-studio.odl.mit.edu/sites/hst-725-music-perception-and-cognition-spring-2009/type/page/edit/da4d9c64-54ac-2506-d73b-5ed1c5d32f0b/#a15)
-- [Evolutionary Perspectives](https://ocw-studio.odl.mit.edu/sites/hst-725-music-perception-and-cognition-spring-2009/type/page/edit/da4d9c64-54ac-2506-d73b-5ed1c5d32f0b/#a16)
-- [Development](https://ocw-studio.odl.mit.edu/sites/hst-725-music-perception-and-cognition-spring-2009/type/page/edit/da4d9c64-54ac-2506-d73b-5ed1c5d32f0b/#a17)
-- [Music and Personality](https://ocw-studio.odl.mit.edu/sites/hst-725-music-perception-and-cognition-spring-2009/type/page/edit/da4d9c64-54ac-2506-d73b-5ed1c5d32f0b/#a18)
-- [Musical Performance](https://ocw-studio.odl.mit.edu/sites/hst-725-music-perception-and-cognition-spring-2009/type/page/edit/da4d9c64-54ac-2506-d73b-5ed1c5d32f0b/#a19)
+- {{% resource_link "f21a2df0-56e6-42f0-8c14-d95d8df4a0d3" "General sources" %}}
+- {{% resource_link "388ebd04-aa27-4aaf-9ba8-9fa58b3d14a3" "Pitch" %}}
+- {{% resource_link "5aed2ba1-35de-4920-8f3b-9fa6f528120d" "Timbre" %}}
+- {{% resource_link "f2dbcc22-ffdc-4b3f-8f10-48dc7576c1a5" "Consonance" %}}
+- {{% resource_link "e01850f0-f3f4-4323-954e-80e0752b83ad" "Scales and Tunings" %}}
+- {{% resource_link "3cda5674-cffc-4f37-911d-600d73b55dca" "Tonality and Harmony" %}}
+- {{% resource_link "b2c9fd78-9aca-4e83-8bd3-1f54a8dae12f" "Melody" %}}
+- {{% resource_link "23a34e53-2089-495f-932e-e2f65b1ffe04" "Rhythm and Time Perception" %}}
+- {{% resource_link "0e5b577f-d697-4bd4-9738-35f216ad1c55" "Animal Rhythm" %}}
+- {{% resource_link "daa9f7fb-4c9d-4a27-aa2a-4512d3d1d75f" "Temporal Models" %}}
+- {{% resource_link "ea551896-a3a1-42f3-bcfd-928f45038d23" "Auditory Grouping" %}}
+- {{% resource_link "36950c83-ed6a-4fde-84fa-c85ebe8cfd0e" "Music and the Cortex" %}}
+- {{% resource_link "f7f41b8e-8068-4118-880c-1f0ab1e46dd4" "Music and Speech Perception" %}}
+- {{% resource_link "da1e7e6a-da24-4290-a7de-6cfa3402a3c1" "Music, Language, and Cognition" %}}
+- {{% resource_link "1ec0e19e-c466-4aad-82e4-d80ede9512ca" "Emotion, Meaning, and Expectation" %}}
+- {{% resource_link "64a1ae16-1ba5-4b86-b22e-aa0794d72018" "Evolutionary Perspectives" %}}
+- {{% resource_link "a3556457-3275-4ba7-85d7-369f148b8c42" "Development" %}}
+- {{% resource_link "40ad706b-a7cc-40f6-a0c0-feae9669d204" "Music and Personality" %}}
+- {{% resource_link "94f34c1a-0288-4742-a684-bbf000cb3af0" "Musical Performance" %}}
 
 ### {{< anchor "a1" >}}{{< /anchor >}}General Sources
 
-[Auditory Demonstrations (CD)](https://doi.org/10.1121/1.2025424), Acoustical Society of America, 1989.
+{{% resource_link "27389c97-577d-4008-8710-575ab6e442b7" "Auditory Demonstrations (CD)" %}}, Acoustical Society of America, 1989.
 
 Christensen, Thomas ed. *Cambridge Handbook of the History of Western Music Theory*. Cambridge, MA: Cambridge University Press, 2002. ISBN: 9780521623711.
 
@@ -431,11 +431,11 @@ Sethares, William. *Tuning, Timbre, Spectrum, Scale*. 2nd ed. London, UK: Spring
 
 Bharucha, Jamshed J. "Neural Nets, Temporal Composites, and Tonality." Chapter 11 in *Deutsch*. \[course text\]
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262200813) Bharucha, Jamshed J., and Peter M. Todd. "Modeling the Perception of Tonal Structure with Neural Nets." In [*Music and Connectionism*](https://mitpress.mit.edu/9780262200813). Edited by P. M. Todd, and G. Loy. Cambridge, MA: MIT Press, 1991. ISBN: 9780262200813.
+{{% resource_link "829d17b5-88c1-47b5-8fa4-7421ae284faa" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bharucha, Jamshed J., and Peter M. Todd. "Modeling the Perception of Tonal Structure with Neural Nets." In {{% resource_link "829d17b5-88c1-47b5-8fa4-7421ae284faa" "*Music and Connectionism*" %}}. Edited by P. M. Todd, and G. Loy. Cambridge, MA: MIT Press, 1991. ISBN: 9780262200813.
 
 Bharucha, J. J., and K. Stoeckig. "Reaction Time and Musical Expectancy: Priming of Chords." *J Exp Psychol (Human Perception and Performance)* 12 (1986): 403-410.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262581271) Handel, S. [*Listening: An Introduction to the Perception of Auditory Events*](https://mitpress.mit.edu/9780262581271). Cambridge, MA: MIT Press, 1993. ISBN: 9780262581271. \[course text\]
+{{% resource_link "a1e384c0-c382-425e-9cab-b1df143e0f40" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Handel, S. {{% resource_link "a1e384c0-c382-425e-9cab-b1df143e0f40" "*Listening: An Introduction to the Perception of Auditory Events*" %}}. Cambridge, MA: MIT Press, 1993. ISBN: 9780262581271. \[course text\]
 
 Janata, P., J. L. Birk, J. D. Van Horn, M. Leman, B. Tillmann, and J. J. Bharucha. "The Cortical Topography of Tonal Structures Underlying Western Music." *Science* 298, no. 5601 (2002): 2167-70.
 
@@ -453,11 +453,11 @@ Tillman, B., J. J. Bharucha, and Emmanuel Bigand. "Implicit Learning of Tonality
 
 Deutsch, Diana. "Grouping Mechanisms in Music." Chapter 9 in *Deutsch*. \[course text\]
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262581271) Handel, S. [*Listening: An Introduction to the Perception of Auditory Events*](https://mitpress.mit.edu/9780262581271). Cambridge, MA: MIT Press, 1993. ISBN: 9780262581271. \[course text\]
+{{% resource_link "a1e384c0-c382-425e-9cab-b1df143e0f40" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Handel, S. {{% resource_link "a1e384c0-c382-425e-9cab-b1df143e0f40" "*Listening: An Introduction to the Perception of Auditory Events*" %}}. Cambridge, MA: MIT Press, 1993. ISBN: 9780262581271. \[course text\]
 
 ### {{< anchor "a8" >}}{{< /anchor >}}Rhythm and Time Perception
 
-Chen, J. L., R. J. Zatorre, and V. B. Penhune. "Interactions Between Auditory and Dorsal Premotor Cortex During Synchronization to Musical Rhythms." *Neuroimage* 32 (2006): 1771-1781. ([PDF](https://pubmed.ncbi.nlm.nih.gov/16777432/)){{< sup "#" >}}
+Chen, J. L., R. J. Zatorre, and V. B. Penhune. "Interactions Between Auditory and Dorsal Premotor Cortex During Synchronization to Musical Rhythms." *Neuroimage* 32 (2006): 1771-1781. ({{% resource_link "b7b68dfc-0942-40a4-b1f3-5d004c8289e3" "PDF" %}}){{< sup "#" >}}
 
 Clynes, M., and J. Walker. "Neurobiologic Functions, Rhythm, Time, and Pulse in Music." In *Music, Mind, and Brain: the Neuropsychology of Music*. Edited by M. Clynes. New York, NY: Springer, 1982. ISBN: 9780306409080.
 
@@ -489,11 +489,11 @@ Zanto, T. P., et al. "Neural Correlates of Rhythmic Expectancy." *Advances in Co
 
 Schachner, A., et al. "Spontaneous Motor Entrainment to Music in Multiple Vocal Mimicking Species." *Current Biology* 19, no. 10 (May 26, 2009): 1-6. DOI: 10.1016/j.cub.2009.03.061. Also see published supplemental data and results.
 
-Patel, A. D., et al. "Investigating the Human-specificity of Synchronization to Music." In Proceedings of the 10th Intl. Conf. on Music Perception and Cognition\_.\_ August 2008, Sapporo, Japan. Edited by M. Adachi, et al. Adelaide, Australia: Causal Productions, 2008. ([PDF](https://web.uvic.ca/~aschloss/course_mat/MUS%20511/ARTICLES%20AND%20REFS%20FOR%20320/Patel.pdf))
+Patel, A. D., et al. "Investigating the Human-specificity of Synchronization to Music." In Proceedings of the 10th Intl. Conf. on Music Perception and Cognition\_.\_ August 2008, Sapporo, Japan. Edited by M. Adachi, et al. Adelaide, Australia: Causal Productions, 2008. ({{% resource_link "651a43de-61d7-477d-984f-76298a4dd678" "PDF" %}})
 
-[Wikipedia: Snowball (Cockatoo)](http://en.wikipedia.org/wiki/Snowball_%28Cockatoo%29)
+{{% resource_link "1efcfc7b-ffdc-4495-b6c5-7175d3a6f661" "Wikipedia: Snowball (Cockatoo)" %}}
 
-Viegas, Jennifer. "[IN DEPTH: Got Rhythm? Animals Do Too.](http://www.unexplained-mysteries.com/forum/index.php?showtopic=82287)" Discovery Channel News.
+Viegas, Jennifer. "{{% resource_link "0cafbc27-8358-4dae-b579-c4d1abad85aa" "IN DEPTH: Got Rhythm? Animals Do Too." %}}" Discovery Channel News.
 
 ### {{< anchor "a10" >}}{{< /anchor >}}Temporal Models
 
@@ -503,9 +503,9 @@ Leman, Marc. "An Auditory Model of the Role of Short-term Memory in Probe-tone R
 
 ### {{< anchor "a11" >}}{{< /anchor >}}Auditory Grouping
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262521956) Bregman, Albert S. [*Auditory Scene Analysis: The Perceptual Organization of Sound*](https://mitpress.mit.edu/9780262521956). Cambridge, MA: MIT Press, 1994. ISBN: 9780262521956.
+{{% resource_link "c15ff475-2122-4ac6-b7d6-ca1993e78ddf" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bregman, Albert S. {{% resource_link "c15ff475-2122-4ac6-b7d6-ca1993e78ddf" "*Auditory Scene Analysis: The Perceptual Organization of Sound*" %}}. Cambridge, MA: MIT Press, 1994. ISBN: 9780262521956.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262194419) Snyder, B. [*Music and Memory*](https://mitpress.mit.edu/9780262194419). Cambridge, MA: MIT Press, 2001. ISBN: 9780262194419. \[course text\]
+{{% resource_link "1dda582c-f795-4da4-aa7c-44310033762d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Snyder, B. {{% resource_link "1dda582c-f795-4da4-aa7c-44310033762d" "*Music and Memory*" %}}. Cambridge, MA: MIT Press, 2001. ISBN: 9780262194419. \[course text\]
 
 Stumpf, C. *Tonpsychologie*. Vols. I and II. Leipzig: S. Hirzel, 1883/1890.
 
@@ -535,7 +535,7 @@ Zatorre, R. J., A. C. Evans, and E. Meyer. "Neural Mechanisms underlying Melodic
 
 ### {{< anchor "a13" >}}{{< /anchor >}}Music and Speech Perception
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262581271) Handel, S. [*Listening: An Introduction to the Perception of Auditory Events*](https://mitpress.mit.edu/9780262581271). Cambridge, MA: MIT Press, 1993. ISBN: 9780262581271.
+{{% resource_link "a1e384c0-c382-425e-9cab-b1df143e0f40" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Handel, S. {{% resource_link "a1e384c0-c382-425e-9cab-b1df143e0f40" "*Listening: An Introduction to the Perception of Auditory Events*" %}}. Cambridge, MA: MIT Press, 1993. ISBN: 9780262581271.
 
 Moore B. C. J. *An Introduction to the Psychology of Hearing*. 5th ed. San Diego, CA: Academic Press, 2003. ISBN: 9780125056281.
 
@@ -547,7 +547,7 @@ Bernstein, Leonard. *The Unanswered Question*. Norton Lectures, 1974. Cambridge,
 
 Lerdahl, F. *Tonal Pitch Space*. New York, NY: Oxford University Press, 2001. ISBN: 9780195058345.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262621076) Lerdahl, F., and R. Jackendoff. [*A Generative Theory of Tonal Music*](https://mitpress.mit.edu/9780262621076). Cambridge, MA: MIT Press, 1996. ISBN: 9780262621076.
+{{% resource_link "d809aeb2-ad01-4e34-ac50-58abb084859d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lerdahl, F., and R. Jackendoff. {{% resource_link "d809aeb2-ad01-4e34-ac50-58abb084859d" "*A Generative Theory of Tonal Music*" %}}. Cambridge, MA: MIT Press, 1996. ISBN: 9780262621076.
 
 ———. "The Capacity for Music: What is it, and What's Special About it?" *Cognition* 100 (2006): 33-72.
 
@@ -555,21 +555,21 @@ Bigand, E. "Contributions of Music to Research on Human Auditory Cognition." Cha
 
 ### {{< anchor "a15" >}}{{< /anchor >}}Emotion, Meaning, and Expectation
 
-Blood, A. J., and Zatorre, R. J. "Intensely Pleasurable Responses to Music Correlate with Activity in Brain Regions Implicated with Reward and Emotion." *Proceedings of the National Academy of Sciences* 98 (2001): 11818-11823 ([PDF](http://www.pnas.org/content/98/20/11818.abstract))
+Blood, A. J., and Zatorre, R. J. "Intensely Pleasurable Responses to Music Correlate with Activity in Brain Regions Implicated with Reward and Emotion." *Proceedings of the National Academy of Sciences* 98 (2001): 11818-11823 ({{% resource_link "71e6b80f-1a9d-4c60-bc35-3135205a0e28" "PDF" %}})
 
 Koelsch, S., et al. "Music, Language and Meaning: Brain Signatures of Semantic Processing." *Nature Neuroscience* 7, no. 3 (March 2004): 302-307.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262083454) Huron, David. [*Sweet Anticipation: Music and the Psychology of Expectation*](https://mitpress.mit.edu/9780262083454). Cambridge, MA: MIT Press, 2006. ISBN: 9780262083454.
+{{% resource_link "451014d8-9701-46a0-81a0-070d1ebac601" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Huron, David. {{% resource_link "451014d8-9701-46a0-81a0-070d1ebac601" "*Sweet Anticipation: Music and the Psychology of Expectation*" %}}. Cambridge, MA: MIT Press, 2006. ISBN: 9780262083454.
 
 Meyer, Leonard B. *Emotion and Meaning in Music*. University of Chicago, IL: Chicago, 1961. ISBN: 9780226521398.
 
 ### {{< anchor "a16" >}}{{< /anchor >}}Evolutionary Perspectives
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262731430) Brown, Steven. "The 'Musilanguage' Model of Music Evolution." In [*Origins of Music*](https://mitpress.mit.edu/9780262731430). Edited by N. L. Wallin, B. Merker, and S. Brown. Cambridge, MA: MIT Press, 2001. ISBN: 9780262731430.
+{{% resource_link "153ca21b-b9ec-4c67-b2a0-4645cd060e18" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Brown, Steven. "The 'Musilanguage' Model of Music Evolution." In {{% resource_link "153ca21b-b9ec-4c67-b2a0-4645cd060e18" "*Origins of Music*" %}}. Edited by N. L. Wallin, B. Merker, and S. Brown. Cambridge, MA: MIT Press, 2001. ISBN: 9780262731430.
 
 Fitch, W. T. "The Biology and Evolution of Music: A Comparative Perspective." *Cognition* 100 (2006): 173-215.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262581554) Hauser, M. D. [*The Evolution of Communication*](https://mitpress.mit.edu/9780262581554). Cambridge, MA: MIT Press, 1997. ISBN: 9780262581554.
+{{% resource_link "fd5c5032-570a-4eb6-b94c-b92ac0760ea7" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Hauser, M. D. {{% resource_link "fd5c5032-570a-4eb6-b94c-b92ac0760ea7" "*The Evolution of Communication*" %}}. Cambridge, MA: MIT Press, 1997. ISBN: 9780262581554.
 
 Hauser, M. D., and J. McDermott. "The Evolution of the Music Faculty: A Comparative Perspective." *Nature Neuroscience* 6, no. 7 (July 2003): 663-668.
 
